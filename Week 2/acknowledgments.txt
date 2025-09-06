@@ -1,0 +1,10 @@
+Acknowledgments
+
+I used ChatGPT as a study partner to clarify  and check errors, and simplify code while completing this project. 
+
+
+For transparency, I am including links to the transcripts of these interactions:
+
+1. ChatGPT guidance: [https://chatgpt.com/share/68b211ab-0e80-8007-8a77-505c3a145044]
+
+These resources document the support I received and ensure compliance with the class generative AI policy.
