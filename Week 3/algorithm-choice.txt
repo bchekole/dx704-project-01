@@ -1,0 +1,3 @@
+Choice: UCB1.
+
+Bounded, non-Bernoulli rewards; set B=8. ε-greedy wastes pulls; Bernoulli TS mis-specified; Gaussian TS needs tuning.
