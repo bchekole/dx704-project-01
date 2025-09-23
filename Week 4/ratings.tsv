@@ -1,7 +1,7 @@
 recipe_slug	rating
 falafel	0.25
 spamburger	0.25
-bacon-fried-rice	1.0
+bacon-fried-rice	0.0
 chicken-fingers	0.25
 apple-crisp	0.25
 cranberry-apple-crisp	0.25
@@ -32,7 +32,7 @@ ma-la-chicken	0.25
 cold-noodles-with-tomatoes	0.25
 tamales	0.25
 enchiladas	0.25
-tacos	1.0
+tacos	0.25
 burritos	0.25
 peanut-butter-cupcakes	0.25
 pickled-asparagus	0.25
@@ -57,7 +57,7 @@ nacho-casserole	0.25
 nacho-fries	0.25
 tempura-udon	0.25
 peach-crisp	0.25
-apple-pie	0.25
+apple-pie	1.0
 blueberry-crisp	0.25
 berry-crumble	0.25
 strawberry-rhubarb-crisp	0.25
@@ -89,7 +89,7 @@ dan-dan-noodles	0.25
 vanilla-souffle	0.25
 bacon-wrapped-dates	0.0
 cherry-pie	0.25
-berry-crisp	0.25
+berry-crisp	1.0
 bacon-and-egg-breakfast-sandwich	0.0
 bacon-wrapped-shrimp-skewers	0.0
 bacon-wrapped-chicken	0.0
