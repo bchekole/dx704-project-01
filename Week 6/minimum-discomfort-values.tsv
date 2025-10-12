@@ -1,8 +1,8 @@
 state	expected_discomfort
-exposed-1	0.3011231223826432
-exposed-2	0.6691624942226007
-exposed-3	1.4870277649991186
+exposed-1	0.75
+exposed-2	1.5
+exposed-3	3.0
+symptoms-1	6.0
+symptoms-2	4.5
+symptoms-3	1.5
 recovered	0.0
-symptoms-1	3.3045061445349004
-symptoms-2	3.1065088757238546
-symptoms-3	1.1538461538455622
